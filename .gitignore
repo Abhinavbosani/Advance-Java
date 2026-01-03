@@ -1,4 +1,16 @@
 ### IntelliJ IDEA ###
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java
+*.class
+*.log
+
+# Build
+/target
+/out
+
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
